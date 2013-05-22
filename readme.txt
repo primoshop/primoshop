@@ -1,4 +1,5 @@
-primoshop
-=========
+PRIMOSHOP
 
-Primo Shop Open Source Ecommerce Platform
+Mobile Shopping (open source iOS and Android application)
+Social Shopping (Facebook integration in clicks)
+
