@@ -1,0 +1,1 @@
+Panou de administrare configurabil
