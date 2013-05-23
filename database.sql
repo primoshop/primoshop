@@ -1,1 +1,1 @@
-Baza de date
+Structura baza de date
